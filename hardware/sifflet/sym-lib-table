@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "0_stimulu-digikey-USB")(type "Legacy")(uri "${KIPRJMOD}/../libs/digikey-kicad-library/digikey-symbols/dk_USB-DVI-HDMI-Connectors.lib")(options "")(descr ""))
+)

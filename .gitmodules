@@ -1,0 +1,3 @@
+[submodule "hardware/libs"]
+	path = hardware/libs
+	url = https://github.com/stimulu/stimulu-kicad-libraries
