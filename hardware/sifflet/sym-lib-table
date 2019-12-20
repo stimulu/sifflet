@@ -1,3 +1,5 @@
 (sym_lib_table
   (lib (name "0_stimulu-digikey-USB")(type "Legacy")(uri "${KIPRJMOD}/../libs/digikey-kicad-library/digikey-symbols/dk_USB-DVI-HDMI-Connectors.lib")(options "")(descr ""))
+  (lib (name "0_stimulu-tomsaw")(type "Legacy")(uri "${KIPRJMOD}/../libs/tomsaw-kicad-library/library/TomS_adc-dac.lib")(options "")(descr ""))
+  (lib (name "sifflet-rescue")(type "Legacy")(uri "${KIPRJMOD}/sifflet-rescue.lib")(options "")(descr ""))
 )

@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "0_stimulu-common")(type "KiCad")(uri "${KIPRJMOD}/../libs/stimulu-common.pretty")(options "")(descr "Common lib for sinestimulu project"))
   (lib (name "0_stimulu-digikey")(type "KiCad")(uri "${KIPRJMOD}/../libs/digikey-kicad-library/digikey-footprints.pretty")(options "")(descr "Digikey Footprint lib"))
+  (lib (name "httc2019_555")(type "KiCad")(uri "/home/procsynth/LNX_DEV/HTTC19_555/httc2019_555.pretty")(options "")(descr ""))
 )
