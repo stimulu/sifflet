@@ -6721,12 +6721,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "/home/procsynth/LNX_DEV/SINE_STIMULUS/SIFFLET/hardware/libs/3d-shapes/RFM95 LoRa v15.step"
+    (model "${KIPRJMOD}/../libs/3d-shapes/RFM95 LoRa v15.step"
       (offset (xyz -8 8 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
     )
-    (model "/home/procsynth/LNX_DEV/SINE_STIMULUS/SIFFLET/hardware/libs/3d-shapes/User Library-SW868-TH13.step"
+    (model "${KIPRJMOD}/../libs/3d-shapes/User Library-SW868-TH13.step"
       (offset (xyz 10.65 -9.35 5))
       (scale (xyz 1 1 1))
       (rotate (xyz 90 -90 -47))
